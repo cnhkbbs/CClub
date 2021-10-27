@@ -16,9 +16,6 @@ int main()
 	scanf("%d %d",&a,&b);
 			for(;;a--)   //倒数开始 （a-1运算） 
 			{
-			if(a<=1)
-			break;
-			else
 			{int flag=1;
 			for(i=2;i<(a-1);i++)
 			{
@@ -31,7 +28,13 @@ int main()
 	        if(flag)
 			{
 			b--;
-			if(b>0) //判断输出开始 （用于输出类似于1+2+3+...+n这种式子） 
+			if(a<=2)
+			{
+				d+=a; 
+				printf("%d",a);
+				break;		
+			}
+			else if(b>0) //判断输出开始 （用于输出类似于1+2+3+...+n这种式子） 
 				{
 			d+=a; 
 			printf("%d+",a);
