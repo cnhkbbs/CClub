@@ -1,4 +1,4 @@
-!!页头文件 #include<string.h> !!
+#include<string.h>
 //puts(字符数组）输出字符串
 char str[]={"China\nBeijing"};
 puts(str);
