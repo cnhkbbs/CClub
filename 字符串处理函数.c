@@ -6,8 +6,8 @@ puts(str);
 //gets(输入字符串函数）
 gets(str);
 
-//strcat（字符串连接函数）
-zh=strcat(字符数组1,字符数组2);
+//strcat（字符串连接函数）效果：字符数组1+字符数组2
+strcat(字符数组1,字符数组2);
 
 //strcpy和strncpy（字符串复制函数）
 //将字符串2复制到字符串1中去
