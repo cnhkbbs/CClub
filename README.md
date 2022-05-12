@@ -3,7 +3,20 @@
 #### 介绍
 本仓库主要用于收集记录一些简单的c语言程序，所有代码就是乱写写看咯
 ****
-注意！！您在码云看到的本仓库为克隆仓库，里面的代码不一定是最新版本！！！获得最新版本请转至https://github.com/cnhkbbs/CClub/
-[转至GitHub](https://github.com/cnhkbbs/CClub/)
-****
+
+````
+如有错误请提交Issues
+````
+
+#### 仓库镜像
+
+你可以访问以下仓库镜像以解决访问缓慢问题
+
+##### 位于GitHub上的原始镜像
+
+https://github.com/cnhkbbs/CClub
+
+##### 位于coding上的镜像
+
+https://sboxm.coding.net/public/sboxm/CClub/git/files
 
