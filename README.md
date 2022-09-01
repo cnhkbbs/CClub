@@ -18,5 +18,5 @@ https://github.com/cnhkbbs/CClub
 
 ##### 位于coding上的镜像
 
-https://sboxm.coding.net/public/sboxm/CClub/git/files
+~~https://sboxm.coding.net/public/sboxm/CClub/git/files~~
 
